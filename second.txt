@@ -1,0 +1,11 @@
+this is demo of git project to commit at GitHub
+changed by manish
+
+Hello manish
+
+
+hello nitish
+bye nitish
+
+
+this is file tracked and not staged
